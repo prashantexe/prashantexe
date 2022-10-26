@@ -92,7 +92,7 @@ If things goes well, this section should automatically be replaced by a list of 
 
 <br/>  
 
-![Listening to on Spotify](https://rishavanand.github.io/static/images/spotify-readme-example.svg)  
+![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=cv3ok5zizrex9dyzk2wgyl9w2&cover_image=true&theme=default&show_offline=false)  
 
 <br/>  
 
