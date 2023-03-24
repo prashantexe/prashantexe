@@ -54,3 +54,23 @@ Here are some [🦜 party parrots](https://cultofthepartyparrot.com):
     <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
 </div>
+
+<br>
+<table align="center">
+  <tr>
+    <td align="center" width="1000">
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prashantexe&show_icons=true&locale=en&layout=compact" alt="prashantexe" /></p>
+</td>
+<tr>
+    <td align="center" width="1000">
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prashantexe&show_icons=true&locale=en" alt="prashantexe" /></p>
+</td>
+<tr>
+    <td align="center" width="1000">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prashantexe&" alt="prashantexe" /></p>
+</td>
+<tr>
+    <td align="center" width="1000">
+</table>
+
+
