@@ -26,6 +26,9 @@ const Prashant = {
  challenge: "I am doing the #50DaysOfCode challenge focused on javascript and further will be focusing on Reactjs"
 }
 ```
+<a href="#prashantexe-title">
+  <img src="https://github-readme-stats.vercel.app/api?username=prashantexe&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="prashantexe " align="left" /><br>
+</a> <br>
 Here are some [🦜 party parrots](https://cultofthepartyparrot.com):
 
 <div>
@@ -55,10 +58,5 @@ Here are some [🦜 party parrots](https://cultofthepartyparrot.com):
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
 </div>
 
-<br>
-<a href="#prashantexe-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=prashantexe&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="prashantexe " align="left" /><br>
-  <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?username=prashantexe&show_icons=true&theme=react" alt="prashantexe" /></p>
-</a>
 
 
