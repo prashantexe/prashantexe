@@ -25,7 +25,7 @@ const Prashant = {
                       },
  challenge: "I am doing the #50DaysOfCode challenge focused on javascript and further will be focusing on Reactjs"
 }
-<br> 
+```
 Here are some [🦜 party parrots](https://cultofthepartyparrot.com):
 
 <div>
