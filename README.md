@@ -26,9 +26,8 @@ const Prashant = {
  challenge: "I am doing the #50DaysOfCode challenge focused on javascript and further will be focusing on Reactjs"
 }
 ```
-<a href="#prashantexe-title">
- <img src="https://github-readme-stats.vercel.app/api?username=prashantexe&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Prashant D" align="right" /><br>
-</a> <br>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=prashantexe&show_icons=true&locale=en" alt="prashantexe" align="left"/></p>
+
 Here are some 🦜 Party Parrots:
 
 <div>
