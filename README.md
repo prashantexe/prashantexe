@@ -19,11 +19,11 @@ const Prashant = {
   code: [Javascript, HTML, CSS, Python, Java],
   tools: [React, Styled-Components, Adobe, Figma, Canva],
   techCommunities: {
-                        cofounder: "Gryffindors",
-                        UI UX Designer: "Gryffindors",
-                        member: JEDI Community
+                        Cofounder: "Gryffindors",
+                        UI/UX Designer: "Gryffindors",
+                        Member: JEDI Community
                       },
- challenge: "I am doing the #10DaysOfCode challenge focused on javascript and further will be focusing on Reactjs"
+ challenge: "I am doing the #50DaysOfCode challenge focused on javascript and further will be focusing on Reactjs"
 }
 ```
 
