@@ -1,4 +1,4 @@
-# <h2> Hi, I'm D Prashant!!! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+# <h2> <center> Hi, I'm D Prashant!!!</center> <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='Centre' src="https://media.giphy.com/media/l0HlHFRbmaZtBRhXG/giphy.gif" width="630">
 <p><em>UI/UX Designer at Gryffindors<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Front-end Developer
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
