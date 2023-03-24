@@ -27,7 +27,7 @@ const Prashant = {
 }
 ```
 <a href="#prashantexe-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=prashantexe&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="prashantexe " align="left" /><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=prashantexe&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="prashantexe " align="center" /><br>
 </a> <br>
 Here are some [🦜 party parrots](https://cultofthepartyparrot.com):
 
