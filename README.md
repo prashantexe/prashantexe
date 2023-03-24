@@ -1,7 +1,7 @@
 # <h1 align="center">Hi 👋, I'm Prashant</h1>
 <h3 align="center">Transforming ideas into reality, one pixel at a time!!</h3>
 
-<img align="center" src="https://media.giphy.com/media/l0HlHFRbmaZtBRhXG/giphy.gif" width="630">
+<img src="https://media.giphy.com/media/l0HlHFRbmaZtBRhXG/giphy.gif" width="630" align="center" />
 <p><em>UI/UX Designer at Gryffindors<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Front-end Developer
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
@@ -29,7 +29,7 @@ const Prashant = {
 <a href="#prashantexe-title">
   <img src="https://github-readme-stats.vercel.app/api?username=prashantexe&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="prashantexe " align="center" /><br>
 </a> <br>
-Here are some [🦜 party parrots](https://cultofthepartyparrot.com):
+Here are some 🦜 Party Parrots:
 
 <div>
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
