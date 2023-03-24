@@ -56,10 +56,9 @@ Here are some [🦜 party parrots](https://cultofthepartyparrot.com):
 </div>
 
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=prashantexe&label=Profile%20views&color=0e75b6&style=flat" alt="prashantexe" /> </p>
 <a href="#prashantexe-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=prashantexe&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="prashantexe " align="left" />
-  <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=prashantexe&" alt="prashantexe" /></p>
+  <img src="https://github-readme-stats.vercel.app/api?username=prashantexe&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="prashantexe " align="left" /><br>
+  <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?username=prashantexe&show_icons=true&theme=react" alt="prashantexe" /></p>
 </a>
 
 
