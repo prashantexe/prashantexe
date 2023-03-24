@@ -1,1 +1,29 @@
+# <h2> Hi, I'm D Prashant!!! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<img align='Centre' src="https://media.giphy.com/media/l0HlHFRbmaZtBRhXG/giphy.gif" width="630">
+<p><em>UI/UX Designer at Gryffindors<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Front-end Developer
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
+
+[![Twitter: Prashantdp7](https://img.shields.io/twitter/follow/Prashantdp7?style=social)](https://twitter.com/prashantdp7)
+[![Linkedin: D Prashant](https://img.shields.io/badge/-Prashant-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prashant-d-7a3915249/)](https://www.linkedin.com/in/prashant-d-7a3915249/)
+[![GitHub Prashantexe](https://img.shields.io/github/followers/Prashantexe?label=follow&style=social)](https://github.com/prashantexe)
+
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const Prashant = {
+  pronouns: "he" | "him",
+  code: [Javascript, HTML, CSS, Python, Java],
+  tools: [React, Styled-Components, Adobe, Figma, Canva],
+  techCommunities: {
+                        cofounder: "Gryffindors",
+                        UI UX Designer: "Gryffindors",
+                        member: JEDI Community
+                      },
+ challenge: "I am doing the #10DaysOfCode challenge focused on javascript and further will be focusing on Reactjs"
+}
+```
+
+---
 
