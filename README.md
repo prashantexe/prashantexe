@@ -1,7 +1,7 @@
 # <h1 align="center">Hi 👋, I'm Prashant</h1>
 <h3 align="center">Transforming ideas into reality, one pixel at a time!!</h3>
-<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='Centre' src="https://media.giphy.com/media/l0HlHFRbmaZtBRhXG/giphy.gif" width="630">
+
+<img align="center" src="https://media.giphy.com/media/l0HlHFRbmaZtBRhXG/giphy.gif" width="630">
 <p><em>UI/UX Designer at Gryffindors<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Front-end Developer
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
