@@ -23,7 +23,7 @@ const Prashant = {
                         UI/UX Designer: "Gryffindors",
                         Member: JEDI Community
                       },
- challenge: "I am doing the #50DaysOfCode challenge focused on javascript and further will be focusing on Reactjs"
+ challenge: "I am doing the #50DaysOfCode challenge focused on Reactjs and further will be focusing on Solidity"
 }
 ```
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=prashantexe&show_icons=true&locale=en" alt="prashantexe" align="left"/></p>
